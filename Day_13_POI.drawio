@@ -1,0 +1,138 @@
+<mxfile host="Electron" modified="2024-02-22T16:25:39.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="Vz6EFg0AS_vkfaiLHzle" version="22.0.0" type="device">
+  <diagram name="Page-1" id="ZN7vq87s2WsuUc0WjrAa">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c3t3MvWoyDg-cBouNthM-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="c3t3MvWoyDg-cBouNthM-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1401.5" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-15" value="For each &lt;br&gt;column:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="719" y="60" width="681" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-1" value="For each &lt;br&gt;column pair&amp;nbsp; &lt;br&gt;either side &lt;br&gt;of the theoretical &lt;br&gt;mirror, from &lt;br&gt;inside to out:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="919" y="100" width="441" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-2" value="Class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#FFFFFF;strokeColor=#B09500;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-3" value="Method" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=10;fontStyle=1;align=center;opacity=33;perimeterSpacing=1;strokeWidth=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-4" value="Test a theoretical mirror to the right of the column" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="799" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-5" value="Variable" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-6" value="Note" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-8" target="c3t3MvWoyDg-cBouNthM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-8" value="Input: Text file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-9" target="c3t3MvWoyDg-cBouNthM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-9" value="Read file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-10" value="MVP - &lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;ul&gt;&lt;li&gt;File input&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="239.5" as="sourcePoint" />
+            <mxPoint x="719" y="239.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-11" value="Create a terrain matrix from each chunk" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontSize=10;fontStyle=1;align=center;opacity=33;perimeterSpacing=1;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-17" target="c3t3MvWoyDg-cBouNthM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-17" value="If the pairs match,&amp;nbsp; continue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1120" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-18" value="If the pairs don&#39;t match, the theoretical mirror is disproved" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1120" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-19" value="Loop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-20" value="Logic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-21" target="c3t3MvWoyDg-cBouNthM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-21" value="If either of the next set of pairs falls outside of the matrix, the theoretical mirror is proved" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1241" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-22" value="For each &lt;br&gt;row:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1561.5" y="60" width="678.5" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-23" value="For each &lt;br&gt;row pair&amp;nbsp; &lt;br&gt;either side &lt;br&gt;of the theoretical &lt;br&gt;mirror, from &lt;br&gt;inside to out:" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontSize=10;fontStyle=1;align=left;opacity=33;perimeterSpacing=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1761.5" y="100" width="438.5" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-24" value="Test a theoretical mirror underneath the row" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1641.5" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-25" target="c3t3MvWoyDg-cBouNthM-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-25" value="If the pairs match,&amp;nbsp; continue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1960" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-26" value="If the pairs don&#39;t match, the theoretical mirror is disproved" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=11;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1960" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-27" target="c3t3MvWoyDg-cBouNthM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-27" value="If either of the next set of pairs falls outside of the matrix, the theoretical mirror is proved" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2081" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-28" target="c3t3MvWoyDg-cBouNthM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-28" value="If no vertical mirror has been found" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1441.5" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-32" target="c3t3MvWoyDg-cBouNthM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-32" target="c3t3MvWoyDg-cBouNthM-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-32" value="Compare the paired column" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1000" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-35" target="c3t3MvWoyDg-cBouNthM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3t3MvWoyDg-cBouNthM-35" target="c3t3MvWoyDg-cBouNthM-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-35" value="Compare the paired rows" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1841" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-39" value="Unclear assumption: is there only one valid mirror per pattern" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-40" value="Rolling sum += # columns to the left of the mirror" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1241" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c3t3MvWoyDg-cBouNthM-42" value="Rolling sum += 100 * # rows above the mirror" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2081" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
